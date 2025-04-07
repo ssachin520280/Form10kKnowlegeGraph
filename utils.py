@@ -50,4 +50,4 @@ def geocode_address_string(address: str):
         return None
 
 if __name__ == "__main__":
-    print(geocode_address_string("ROYAL BANK PLAZA, 200 BAY STREET, TORONTO, A6, M5J2J5"))
+    print(geocode_address_string("3060 Olsen Drive, San Jose, CA 95128"))
